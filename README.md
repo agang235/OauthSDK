@@ -6,7 +6,8 @@ QQ、微信、微博、第三方登录SDK
 使用 Composer 安装:
 
 ```
-composer require fakerpp/oauthsdk
+composer require agang235/oauthsdk
+或 composer require fakerpp/oauthsdk
 ```
 
 ### 如何使用?
