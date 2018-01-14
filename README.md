@@ -14,7 +14,7 @@ composer require agang235/oauthsdk
 
 ```html
 html
-    <a href="login.php?client=qq">QQ登录</a>
+    <a href="login.php?client=qq" >QQ登录</a>
     <a href="login.php?client=wechat">微信登录</a>
     <a href="login.php?client=sina">新浪登录</a>
 ```
